@@ -1,7 +1,1 @@
-{
-    "version": "2.0.7-beta",
-    "version_num": 20007,
-    "version_desc": "1. 更新V1 API支持部分神隐漫画的阅读",
-    "force":1,
-    "download_url": "https://www.baidu.com"
-}
+{"version":"1.0.0","version_num":10000,"version_desc":"初始版本","force":0,"download_url":""}
